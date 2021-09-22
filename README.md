@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Elena Salcedo
+
+I am currently studying Computer Science and I want to change the :earth_americas: for the better.
+
+Some curious facts about myself is that:
+- I love maths :high_brightness:
+- I drool over chocolates :chocolate_bar:
+- I believe roller coaster are the best :roller_coaster:
+
+It's been a pleasure to meet you :ghost:
